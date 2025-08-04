@@ -1,4 +1,4 @@
-# Mall_customers_cleaned
+
 ### 🧹 Data Cleaning Summary
 
 - Renamed columns to lowercase with underscores
